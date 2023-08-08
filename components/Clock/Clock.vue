@@ -1,5 +1,8 @@
 <template>
-	<view class="main">
+	<view class="todo">
+		我是任务
+	</view>
+	<view class="clock">
 		<text v-if="!completed">番茄钟倒计时:{{formattedTime}} </text>
 		<text v-else>番茄钟已完成！</text>
 	</view>
