@@ -1,6 +1,6 @@
 <template>
 	<view>
-		我是专注页面
+		<Clock></Clock>
 	</view>
 </template>
 

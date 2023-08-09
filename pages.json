@@ -50,7 +50,12 @@
 			"pagePath": "pages/todo/todo",
 			"iconPath": "static/icon/todo.png",
 			"selectedIconPath": "static/icon/todo-s.png",
-			"text": "待办"
+			"text": "待办",
+			"app-plus": {
+				"nvue": {
+					"showTabBar": true
+				}
+			}
 		}, {
 			"pagePath": "pages/statistics/statistics",
 			"iconPath": "static/icon/statistics.png",
